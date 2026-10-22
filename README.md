@@ -5,14 +5,13 @@
 
 <!-- 2. TYPING HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Jashrikhaa+%F0%9F%91%8B;Final+Year+Multimedia+Computing+Student;Web+Developer+%7C+UI%2FUX+Designer;Building+accessible%2C+user-focused+products" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&repeat=true&lines=Hi+I+am+Jashrikhaa;Final+Year+Multimedia+Computing+Student;Web+Developer+%7C+UI%2FUX+Designer;Building+accessible+user-focused+products" alt="Typing SVG"/>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jashrikhaa100803"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jashrikhaa@ypccollege.edu.my"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://canva.link/bc19t8wxudyasei"><img src="https://img.shields.io/badge/Portfolio-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Jash301017&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile views"/>
 </div>
 
 <br/>
@@ -68,7 +67,7 @@ const jashrikhaa = {
 
 <div align="center">
   <a href="https://github.com/Jash301017">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jash301017&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jash301017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/Jash301017">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jash301017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
@@ -168,7 +167,7 @@ const jashrikhaa = {
 ---
 
 <div align="center">
-  <b>📫 Let's connect!</b> &nbsp;<a href="mailto:jashrikhaa@ypccollege.edu.my">jashrikhaa@ypccollege.edu.my</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/jashrikhaa100803">LinkedIn</a>
+  <b>📫 Let's connect!</b> &nbsp;<a href="mailto:jashrikhaa100803@gmail.com">jashrikhaa100803@gmail.com</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/jashrikhaa100803">LinkedIn</a>
   <br/><br/>
   <i>Open to internships and entry-level roles in web development and UI/UX design.</i>
 </div>
